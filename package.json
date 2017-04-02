@@ -21,6 +21,7 @@
     "webpack-dev-server": "^2.4.2"
   },
   "dependencies": {
+    "flux": "^2.0.0",
     "react-router": "^2.0.0"
   }
 }
