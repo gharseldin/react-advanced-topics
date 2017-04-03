@@ -24,7 +24,7 @@ var config ={
                 include: APP_DIR,
                 loader: 'babel-loader',
                 query: {
-                    presets: ['es2016', 'react']
+                    presets: ['es2016', 'stage-0', 'react']
                 }
             }
         ]
